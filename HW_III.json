@@ -1,5 +1,4 @@
-"values": [
-  {
+[{
   "OrderDate": "1\/6\/21",
   "Region": "East",
   "Rep": "Jones",
@@ -385,5 +384,4 @@
   "Units": 28,
   "Unit Cost": 4.99,
   "Total": 139.72
- }
-]
+ }]
