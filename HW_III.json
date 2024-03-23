@@ -1,6 +1,4 @@
 {
-"values":[
- {
   "OrderDate": "1\/6\/21",
   "Region": "East",
   "Rep": "Jones",
@@ -387,5 +385,3 @@
   "Unit Cost": 4.99,
   "Total": 139.72
  }
-]
-}
